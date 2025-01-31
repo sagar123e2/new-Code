@@ -14,7 +14,7 @@ const Hero = () => {
             className="md:w-1/2"
           >
             <h1 className="text-5xl font-bold mb-6">
-              SEO & Digital Marketing Expert
+              SEO & DigitaDRFTUSRTUDTYIDTYODYUODYUOHSFGURl Marketing Expert
             </h1>
             <h2 className="text-2xl text-gray-600 mb-8">
               Sagar Singh Rajpurohit
